@@ -37,3 +37,9 @@ The chatbot is currently built within a singular Python notebook file that was o
 ## Modifications
 Code in this repo was modified to allow for running the notebook on a local machine while still using the Google Colab runtime, in addition to 
 making some adjustments to allow for publishing on a GitHub repo without sharing secret token values. 
+
+### Planned Modifications
+[] place package dependencies in requirements.txt files
+[] replace any distributions needing local compiling with binary packages if possible
+[] re-create notebook as modules is possible
+[] add more source data (other Kings Dominion operations manuals)
